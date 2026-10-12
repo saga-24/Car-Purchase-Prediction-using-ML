@@ -27,7 +27,6 @@ Thakur College of Engineering & Technology (TCET), A.Y. 2023-24.
 ### Test set (100 customers)
 | Model | Accuracy | Precision | Recall | F1 |
 |---|---|---|---|---|
-| Majority-class baseline | 0.63 | - | - | - |
 | Logistic Regression | 0.86 | 0.926 | 0.676 | 0.781 |
 | KNN (k = 5) | **0.93** | 0.895 | 0.919 | 0.907 |
 | SVM (linear) | 0.86 | 0.926 | 0.676 | 0.781 |
