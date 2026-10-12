@@ -1,0 +1,4 @@
+Model                   scratch acc  sklearn acc  agreement
+Logistic Regression            0.88         0.86       0.98
+KNN (k=5)                      0.93         0.93       1.00
+SVM (linear)                   0.87         0.86       0.99
