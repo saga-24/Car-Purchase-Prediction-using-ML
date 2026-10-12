@@ -44,7 +44,6 @@ scikit-learn 1.8.0 on the original split reproduced every confusion matrix from 
 ### Cross-validation (5 folds x 10 repeats, all 400 customers)
 | Model | Accuracy | Recall | F1 |
 |---|---|---|---|
-| Majority-class baseline | 64.2% +/- 0.6 | 0.000 | 0.000 |
 | Logistic Regression | 84.6% +/- 3.5 | 0.709 | 0.765 |
 | KNN (k = 5) | 89.9% +/- 2.8 | 0.869 | 0.860 |
 | SVM (linear) | 83.7% +/- 3.5 | 0.678 | 0.746 |
